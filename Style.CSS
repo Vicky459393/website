@@ -1,4 +1,30 @@
 body {
-  background-color: aqua;
-  color: red;
+  background-color: plum;
+  color: black;
+}
+
+h1{
+  color:red;
+}
+
+h2{
+  color:green;
+}
+
+header{
+  color rgb: (44,44,44);
+}
+
+section{
+  color: blue;
+  background-color: grey;
+}
+
+p{
+  color: black;
+  background-color: yellow;
+}
+
+footer{
+  color: black;
 }
