@@ -1,11 +1,11 @@
 body {
-  background-color: plum;
+  background-color: mustard;
   color: black;
   font-family: 'East Sea Dokdo', cursive;
 }
 
 h1 {
-  color:red;
+  color:pink;
   font-family: Helvetica, Arial;
 }
 
@@ -19,7 +19,7 @@ header {
 
 section {
   color: blue;
-  background-color: grey;
+  background-color: white;
 }
 
 p {
