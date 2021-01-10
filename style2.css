@@ -1,32 +1,15 @@
-body {
-  background-color: lightBlue;
-  color: black;
-  font-family: 'East Sea Dokdo', cursive;
+*{
+  margin: 0;
+  padding: 0;
 }
-
-h1 {
-  color:pink;
-  font-family: Helvetica, Arial;
+body{
+  font-family: Baloo;
 }
-
-h2 {
-  color:green;
+.banner-text{
+  width: 100%;
+  position: absolute;
 }
-
-header {
-  color rgb: (44,44,44);
-}
-
-section {
-  color: blue;
-  background-color: black;
-}
-
-p {
-  color: black;
-  background-color: yellow;
-}
-
-footer {
-  color: orange;
+.banner-text ul{
+  height: 50px;
+  float: right;
 }
