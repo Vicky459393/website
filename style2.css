@@ -1,0 +1,32 @@
+body {
+  background-color: lightBlue;
+  color: black;
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+h1 {
+  color:pink;
+  font-family: Helvetica, Arial;
+}
+
+h2 {
+  color:green;
+}
+
+header {
+  color rgb: (44,44,44);
+}
+
+section {
+  color: blue;
+  background-color: black;
+}
+
+p {
+  color: black;
+  background-color: yellow;
+}
+
+footer {
+  color: orange;
+}
