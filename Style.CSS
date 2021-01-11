@@ -16,6 +16,7 @@ h1 {
   color:red;
   font-family: Helvetica, Arial;
   font-size: 36px;
+  font-style: italic;
 
 }
 
@@ -23,13 +24,14 @@ h2 {
   color:green;
       font-size: 24px;
       font-weight: 100;
-
+  font-style: oblique;
 
 }
 
 h3 {
   color: pink;
     font-size: 36px;
+      font-style: normal;
 }
 
 header {
