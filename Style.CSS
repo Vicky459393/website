@@ -37,12 +37,13 @@ header {
 section {
   color: blue;
   background-color: black;
-    /* background-color: grey; */
 }
 
 p {
   color: black;
   background-color: magenta;
+  /* background-color: grey; */
+  
 
 }
 
