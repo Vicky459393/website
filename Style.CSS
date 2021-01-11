@@ -30,13 +30,13 @@ h3 {
 
 header {
   color rgb: (44,44,44);
-  /* background-color: lightBlue */
+  /* background-color: lightBlue; */
 }
 
 section {
   color: blue;
   background-color: black;
-    /* background-color: grey */
+    /* background-color: grey; */
 }
 
 p {
