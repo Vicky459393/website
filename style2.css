@@ -12,7 +12,7 @@ body{
 .banner-text ul{
   height: 50px;
   float: right;
-
+    border-radius: 50%;
 }
 .banner-text ul li{
   display: inline-block;
@@ -20,7 +20,7 @@ body{
   text-transform: uppercase;
   color: hotPink;
   font-size: 20px;
-    border-radius: 50%;
+
 }
 
 .banner-text h2{
