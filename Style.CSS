@@ -1,58 +1,78 @@
-/* Website Styles */
+  /* Website Styles */
 
-*{
-    font-size: 30px;
-    font-family: 'baloo', cursive;
+  *{
+      font-size: 25px;
+      font-family: 'baloo', cursive;
 
-}
-body {
-  background-color: lightBlue;
-  color: black;
-/*   font-family: 'baloo', cursive; */
+  }
+  body {
+    background-color: lightBlue;
+    color: black;
+  /*   font-family: 'baloo', cursive; */
 
-}
+  }
 
-h1 {
-  color:red;
-  font-family: Helvetica, Arial;
-  font-size: 36px;
-  font-style: italic;
-
-}
-
-h2 {
-  color:green;
-      font-size: 24px;
-      font-weight: 100;
-  font-style: oblique;
-
-}
-
-h3 {
-  color: black;
+  h1 {
+    color:red;
+    font-family: Helvetica, Arial;
     font-size: 36px;
-      font-style: normal;
-}
+    font-style: italic;
+    text-align: center;
 
-header {
-  color rgb: (44,44,44);
-  /* background-color: yellow; */
-}
+  }
 
-section {
-  color: blue;
-  background-color: black;
-}
+  h2 {
+    color:green;
+        font-size: 24px;
+        font-weight: 100;
+    font-style: oblique;
 
-p {
+  }
+
+  h3 {
+    color: black;
+      font-size: 36px;
+        font-style: normal;
+  }
+
+  header {
+    color rgb: (44,44,44);
+    /* background-color: yellow; */
+  }
+
+  section {
+    color: blue;
+    background-color: black;
+  }
+
+  p {
+    color: black;
+    background-color: magenta;
+    /* background-color: grey; */
+    line-height: 2;
+    text-align: right;
+
+
+  }
+
+  footer {
+    color: orange;
+    background-color: white;
+    text-decoration: underline;
+  }
+
+  alink,
+  a:focus,
+  a:active {
+  text-decoration: underline;
   color: red;
-  background-color: magenta;
-  /* background-color: grey; */
-  line-height: 2;
+  }
 
+  a:hover{
+    color: purple;
+    text-secoration: none;
+  }
 
-}
-
-footer {
-  color: orange;
-}
+  a:visited{
+    color: grey;
+  }
