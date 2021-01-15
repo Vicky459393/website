@@ -84,21 +84,6 @@ p {
   margin: 25px 0;
 }
 
-.btn {
-  display: inline-block;
-  background: deepPink;
-  color: #fff;
-  padding: 8px 30px;
-  margin: 30px 0;
-  border-radius: 30px;
-  transition: background 0.8s;
-  font-size: 20px;
-}
-
-.btn hover {
-  background: #ff0085;
-}
-
 .header {
   background: radial-gradient(#fff,#ffd6d6);
 }
@@ -148,10 +133,6 @@ h2 {
 
 .about {
   align-text; center;
-}
-
-.logo {
-  align: center;
 }
 
 .img-container {
