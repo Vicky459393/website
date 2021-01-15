@@ -25,9 +25,8 @@ body{
   text-transform: uppercase;
   color: #000;
   font-size: 20px;
-
-
 }
+
 img {
   border: white;
 }
@@ -128,4 +127,18 @@ overflow: hidden;
 }
 .h2{
   text-align: center;
+}
+
+.opening {
+  font-size: 50px;
+}
+
+.banner {
+  height: 360px;
+  background-image: url(images/banner.jpg);
+}
+
+.autumn {
+  align: bottom;
+  position: center;
 }
