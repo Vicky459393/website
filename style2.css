@@ -11,6 +11,7 @@ body{
 .banner-text{
   width: 100%;
   position: absolute;
+  text-align: right;
 }
 
 .banner-text ul{
@@ -27,8 +28,10 @@ body{
   font-size: 20px;
 }
 
-img {
-  border: white;
+.active, .banner-text ul li:hover {
+  background: deepPink;
+  border-radius: 2px;
+
 }
 
 .banner-text h2{
@@ -36,7 +39,7 @@ img {
     color: #000;
   font-size: 50px;
   margin-top: 20%;
-    float: center;
+    float: right;
 }
 
 .animation{
@@ -125,20 +128,24 @@ overflow: hidden;
   transform: translateY(-800px) rotate(360deg);
   opacity: 0;
 }
-.h2{
-  text-align: center;
-}
 
 .opening {
   font-size: 50px;
 }
 
-.banner {
-  height: 360px;
-  background-image: url(images/banner.jpg);
+.h2 {
+  position: center;
+float: center;
 }
 
-.autumn {
-  align: bottom;
-  position: center;
+.navbar ul li {
+  width: 120px;
+  margin: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  /* padding: 16px; */
+  text-decoration:  none;
+  color: #fff;
 }
